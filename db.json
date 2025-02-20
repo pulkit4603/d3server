@@ -66,5 +66,95 @@
       "deviation_cause": "my friend is fitter than me",
       "feels": "Happy"
     }
+  ],
+  "measurements-comparison": [
+    {
+      "id": 1,
+      "date": "2025-02-18T14:51:06.157Z",
+      "weight": 100,
+      "bust": 30,
+      "underbust": 20,
+      "stomach": 25,
+      "arm_l": 10,
+      "arm_r": 9,
+      "thighs": 15
+    },
+    {
+      "id": 2,
+      "date": "2025-02-11T14:51:06.157Z",
+      "weight": 102,
+      "bust": 31,
+      "underbust": 21,
+      "stomach": 26,
+      "arm_l": 10,
+      "arm_r": 9,
+      "thighs": 15.5
+    },
+    {
+      "id": 3,
+      "date": "2025-02-04T14:51:06.157Z",
+      "weight": 103,
+      "bust": 31.5,
+      "underbust": 21.5,
+      "stomach": 27,
+      "arm_l": 10.5,
+      "arm_r": 9.5,
+      "thighs": 16
+    },
+    {
+      "id": 4,
+      "date": "2025-01-28T14:51:06.157Z",
+      "weight": 105,
+      "bust": 32,
+      "underbust": 22,
+      "stomach": 28,
+      "arm_l": 11,
+      "arm_r": 10,
+      "thighs": 16.5
+    },
+    {
+      "id": 5,
+      "date": "2025-01-21T14:51:06.157Z",
+      "weight": 106,
+      "bust": 32.5,
+      "underbust": 22.5,
+      "stomach": 29,
+      "arm_l": 11.5,
+      "arm_r": 10.5,
+      "thighs": 17
+    },
+    {
+      "id": 6,
+      "date": "2025-01-14T14:51:06.157Z",
+      "weight": 108,
+      "bust": 33,
+      "underbust": 23,
+      "stomach": 30,
+      "arm_l": 12,
+      "arm_r": 11,
+      "thighs": 17.5
+    },
+    {
+      "id": 7,
+      "date": "2025-01-07T14:51:06.157Z",
+      "weight": 110,
+      "bust": 33.5,
+      "underbust": 23.5,
+      "stomach": 31,
+      "arm_l": 12.5,
+      "arm_r": 11.5,
+      "thighs": 18
+    },
+    {
+      "id": 8,
+      "date": "2024-12-31T14:51:06.157Z",
+      "weight": 112,
+      "bust": 34,
+      "underbust": 24,
+      "stomach": 32,
+      "arm_l": 13,
+      "arm_r": 12,
+      "thighs": 18.5
+    }
   ]
 }
