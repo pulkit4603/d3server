@@ -1,0 +1,70 @@
+{
+  "personal": {
+    "id": 1,
+    "name": "John Doe",
+    "age": 28,
+    "location": "Mumbai"
+  },
+  "plans": [
+    {
+      "id": 1,
+      "planname": "Summer Shred",
+      "planId": "WKT001",
+      "coach": "Mike Fitness",
+      "type": "diet",
+      "duration": "12 weeks",
+      "completion": 75
+    },
+    {
+      "id": 3,
+      "planname": "Strength Builder Pro",
+      "planId": "WKT002",
+      "coach": "Seb Bluff",
+      "type": "workout",
+      "duration": "8 weeks",
+      "completion": 30
+    }
+  ],
+  "measurements": [
+    {
+      "id": 1,
+      "date": "2025-02-18T14:51:06.157Z",
+      "weight": 100,
+      "bust": 30,
+      "underbust": 20,
+      "stomach": 25,
+      "arm_l": 10,
+      "arm_r": 9,
+      "thighs": 15,
+      "water_intake": 3,
+      "sleep_avg": 8,
+      "steps_avg": 5000,
+      "weight_reps": 10,
+      "weight_sets": 8,
+      "workout_days": ["monday", "tuesday", "friday"],
+      "workout_deviated": ["monday"],
+      "deviation_cause": "my dogs cousin died",
+      "feels": "Energetic"
+    },
+    {
+      "id": 2,
+      "date": "2025-02-11T10:20:24.111Z",
+      "weight": 70,
+      "bust": 35,
+      "underbust": 25,
+      "stomach": 30,
+      "arm_l": 10,
+      "arm_r": 8,
+      "thighs": 17,
+      "water_intake": 5,
+      "sleep_avg": 7,
+      "steps_avg": 3000,
+      "weight_reps": 10,
+      "weight_sets": 8,
+      "workout_days": ["sunday", "thursday", "friday", "saturday"],
+      "workout_deviated": ["friday"],
+      "deviation_cause": "my friend is fitter than me",
+      "feels": "Happy"
+    }
+  ]
+}
