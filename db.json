@@ -13,7 +13,7 @@
       "coach": "Mike Fitness",
       "type": "diet",
       "duration": "12 weeks",
-      "completion": 75
+      "completion": 75,
       "joindate": "2025-02-11T14:51:06.157Z"
     },
     {
@@ -23,7 +23,7 @@
       "coach": "Seb Bluff",
       "type": "workout",
       "duration": "8 weeks",
-      "completion": 30
+      "completion": 30,
       "joindate":  "2025-02-18T14:51:06.157Z"
     }
   ],
