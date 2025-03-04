@@ -35,7 +35,9 @@
       "coach": "Seb Bluff",
       "type": "diet",
       "duration": "12 weeks",
-      "isActive": false
+      "isActive": false,
+      "description": "A plant-based nutrition plan focused on high-protein sources to support muscle development for teens. Includes legumes, tofu, and specialized vegan protein supplements.",
+      "image": "https://i.ibb.co/7tdb9Fhk/diet-Plan1.jpg"
     },
     {
       "id": 4,
@@ -44,7 +46,9 @@
       "coach": "Mike Fitness",
       "type": "workout",
       "duration": "6 weeks",
-      "isActive": false
+      "isActive": false,
+      "description": "High-intensity cardio program designed to maximize fat burning and endurance. Features interval training, circuit workouts, and progressive aerobic exercises.",
+      "image": "https://i.ibb.co/3mPfzWcw/workout-Plan1.jpg"
     },
     {
       "id": 5,
@@ -53,7 +57,9 @@
       "coach": "Seb Bluff",
       "type": "diet",
       "duration": "10 weeks",
-      "isActive": false
+      "isActive": false,
+      "description": "Low-carb, high-fat diet plan that helps transition your body into ketosis for accelerated fat loss. Includes weekly meal plans with precise macronutrient ratios.",
+      "image": "https://i.ibb.co/wNCGgBrf/diet-Plan2.jpg"
     },
     {
       "id": 6,
@@ -62,7 +68,9 @@
       "coach": "Mike Fitness",
       "type": "workout",
       "duration": "4 weeks",
-      "isActive": false
+      "isActive": false,
+      "description": "Targeted abdominal and lower back training program designed to build core stability and strength. Features progressive exercises from beginner to advanced levels.",
+      "image": "https://i.ibb.co/qYy0jgjB/workout-Plan2.jpg"
     }
   ],
   "measurements": [
