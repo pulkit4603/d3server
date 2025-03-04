@@ -9,22 +9,60 @@
     {
       "id": 1,
       "planname": "Summer Shred",
-      "planId": "WKT001",
+      "planId": "DT001",
       "coach": "Mike Fitness",
       "type": "diet",
       "duration": "12 weeks",
       "completion": 75,
-      "joindate": "2025-02-11T14:51:06.157Z"
+      "joindate": "2025-02-11T14:51:06.157Z",
+      "isActive": true
     },
     {
-      "id": 3,
+      "id": 2,
       "planname": "Strength Builder Pro",
-      "planId": "WKT002",
+      "planId": "WKT001",
       "coach": "Seb Bluff",
       "type": "workout",
       "duration": "8 weeks",
       "completion": 30,
-      "joindate":  "2025-02-18T14:51:06.157Z"
+      "joindate":  "2025-02-18T14:51:06.157Z",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "planname": "Vegan Pro-teen",
+      "planId": "DT002",
+      "coach": "Seb Bluff",
+      "type": "diet",
+      "duration": "12 weeks",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "planname": "Cardio Blast",
+      "planId": "WKT002",
+      "coach": "Mike Fitness",
+      "type": "workout",
+      "duration": "6 weeks",
+      "isActive": false
+    },
+    {
+      "id": 5,
+      "planname": "Keto Kickstarter",
+      "planId": "DT003",
+      "coach": "Seb Bluff",
+      "type": "diet",
+      "duration": "10 weeks",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "planname": "Core Strength Focus",
+      "planId": "WKT003",
+      "coach": "Mike Fitness",
+      "type": "workout",
+      "duration": "4 weeks",
+      "isActive": false
     }
   ],
   "measurements": [
