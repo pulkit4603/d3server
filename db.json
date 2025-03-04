@@ -25,7 +25,7 @@
       "type": "workout",
       "duration": "8 weeks",
       "completion": 30,
-      "joindate":  "2025-02-18T14:51:06.157Z",
+      "joindate": "2025-02-18T14:51:06.157Z",
       "isActive": true
     },
     {
@@ -89,8 +89,14 @@
       "steps_avg": 5000,
       "weight_reps": 10,
       "weight_sets": 8,
-      "workout_days": ["monday", "tuesday", "friday"],
-      "workout_deviated": ["monday"],
+      "workout_days": [
+        "monday",
+        "tuesday",
+        "friday"
+      ],
+      "workout_deviated": [
+        "monday"
+      ],
       "deviation_cause": "my dogs cousin died",
       "feels": "Energetic",
       "coach_remarks": "Amazing progress but please stop blaming your dog's extended family for having cheat meals and extra rest days."
@@ -110,12 +116,18 @@
       "steps_avg": 3000,
       "weight_reps": 10,
       "weight_sets": 8,
-      "workout_days": ["sunday", "thursday", "friday", "saturday"],
-      "workout_deviated": ["friday"],
+      "workout_days": [
+        "sunday",
+        "thursday",
+        "friday",
+        "saturday"
+      ],
+      "workout_deviated": [
+        "friday"
+      ],
       "deviation_cause": "my friend is fitter than me",
       "feels": "Happy",
       "coach_remarks": "You have been a brilliant student these few weeks and are quickly getting closer and closer to your goal! PS. Shouldn't you be NOT taking rest days if you're jealous of a fit friend?"
-
     }
   ],
   "measurements-comparison": [
